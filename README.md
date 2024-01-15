@@ -1,3 +1,6 @@
+
+codes and dataset for IEEE ICC2024
+<!--- just
 ## Prerequisites
 Ubuntu 16.04 (or mac), Tensorflow v1.5.0 or higher, 
 Python 3.5 or higher
@@ -31,3 +34,5 @@ python3 rl_no_training.py SUBSET EPOCH BASE LAYER NEURON
 ## Acknowledgements
 
 Thanks [pensieve](https://github.com/hongzimao/pensieve) for open-sourcing codes of RL for adaptive video streaming
+
+ ---> 
