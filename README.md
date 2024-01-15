@@ -1,13 +1,11 @@
 ## Prerequisites
-Ubuntu 16.04 (or OSX), Tensorflow v1.1.0 or higher, TFLearn v0.3.1 
+Ubuntu 16.04 (or mac), Tensorflow v1.5.0 or higher, 
 Python 3.5 or higher
 
 
 
 ## Train a model using additional physical layer traces:
-* cooked_traces: training set
-* cooked_test_traces: validation set
-* In `./sim`, run 
+* In `sim`, training set is in `cooked_traces`, validation set is in `cooked_test_traces`, run 
 ```
 python3 multi_agent.py
 ```
