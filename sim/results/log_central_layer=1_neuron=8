@@ -1,0 +1,64 @@
+WARNING:tensorflow:From F:\summer\code2\Proposed-Mac-MCTS\sim\multi_agent.py:93: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+WARNING:tensorflow:From F:\summer\code2\Proposed-Mac-MCTS\sim\a3c.py:66: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+WARNING:tensorflow:From C:\Users\h\anaconda3\envs\pinkyangel\lib\site-packages\tflearn\initializations.py:110: calling UniformUnitScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+WARNING:tensorflow:From C:\Users\h\anaconda3\envs\pinkyangel\lib\site-packages\tensorflow_core\python\util\deprecation.py:507: UniformUnitScaling.__init__ (from tensorflow.python.ops.init_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.initializers.variance_scaling instead with distribution=uniform to get equivalent behavior.
+WARNING:tensorflow:From C:\Users\h\anaconda3\envs\pinkyangel\lib\site-packages\tflearn\initializations.py:165: calling TruncatedNormal.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+WARNING:tensorflow:From F:\summer\code2\Proposed-Mac-MCTS\sim\a3c.py:33: The name tf.get_collection is deprecated. Please use tf.compat.v1.get_collection instead.
+
+WARNING:tensorflow:From F:\summer\code2\Proposed-Mac-MCTS\sim\a3c.py:33: The name tf.GraphKeys is deprecated. Please use tf.compat.v1.GraphKeys instead.
+
+WARNING:tensorflow:From F:\summer\code2\Proposed-Mac-MCTS\sim\a3c.py:39: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+WARNING:tensorflow:From F:\summer\code2\Proposed-Mac-MCTS\sim\a3c.py:52: The name tf.log is deprecated. Please use tf.math.log instead.
+
+WARNING:tensorflow:From F:\summer\code2\Proposed-Mac-MCTS\sim\a3c.py:53: calling reduce_sum_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+WARNING:tensorflow:From F:\summer\code2\Proposed-Mac-MCTS\sim\a3c.py:62: The name tf.train.RMSPropOptimizer is deprecated. Please use tf.compat.v1.train.RMSPropOptimizer instead.
+
+WARNING:tensorflow:From C:\Users\h\anaconda3\envs\pinkyangel\lib\site-packages\tensorflow_core\python\training\rmsprop.py:119: calling Ones.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+WARNING:tensorflow:From F:\summer\code2\Proposed-Mac-MCTS\sim\a3c.py:275: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+WARNING:tensorflow:From F:\summer\code2\Proposed-Mac-MCTS\sim\a3c.py:282: The name tf.summary.merge_all is deprecated. Please use tf.compat.v1.summary.merge_all instead.
+
+WARNING:tensorflow:From F:\summer\code2\Proposed-Mac-MCTS\sim\multi_agent.py:104: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
+
+WARNING:tensorflow:From F:\summer\code2\Proposed-Mac-MCTS\sim\multi_agent.py:105: The name tf.summary.FileWriter is deprecated. Please use tf.compat.v1.summary.FileWriter instead.
+
+WARNING:tensorflow:Issue encountered when serializing data_preprocessing.
+Type is unsupported, or the types of the items don't match field type in CollectionDef. Note this is a warning and probably safe to ignore.
+'NoneType' object has no attribute 'name'
+WARNING:tensorflow:Issue encountered when serializing data_augmentation.
+Type is unsupported, or the types of the items don't match field type in CollectionDef. Note this is a warning and probably safe to ignore.
+'NoneType' object has no attribute 'name'
+WARNING:tensorflow:From F:\summer\code2\Proposed-Mac-MCTS\sim\multi_agent.py:106: The name tf.train.Saver is deprecated. Please use tf.compat.v1.train.Saver instead.
+
+INFO:root:Epoch: 1 TD_loss: 5.402186300676785 Avg_reward: 15.838400218105306 Avg_entropy: 1.8298680915477428
+INFO:root:Epoch: 2 TD_loss: 11.302306099145031 Avg_reward: 26.58002692062517 Avg_entropy: 1.8298724249322365
+WARNING:tensorflow:Issue encountered when serializing data_preprocessing.
+Type is unsupported, or the types of the items don't match field type in CollectionDef. Note this is a warning and probably safe to ignore.
+'NoneType' object has no attribute 'name'
+WARNING:tensorflow:Issue encountered when serializing data_augmentation.
+Type is unsupported, or the types of the items don't match field type in CollectionDef. Note this is a warning and probably safe to ignore.
+'NoneType' object has no attribute 'name'
+INFO:root:Model saved in file: ./results/nn_model_layer=1_neuron=8_ep_2.ckpt
+INFO:root:Epoch: 3 TD_loss: 18.35213049539413 Avg_reward: 38.33098050520453 Avg_entropy: 1.82987239386173
+INFO:root:Epoch: 4 TD_loss: 10.891454206525067 Avg_reward: 0.20954265293935825 Avg_entropy: 1.8298810384374984
+WARNING:tensorflow:Issue encountered when serializing data_preprocessing.
+Type is unsupported, or the types of the items don't match field type in CollectionDef. Note this is a warning and probably safe to ignore.
+'NoneType' object has no attribute 'name'
+WARNING:tensorflow:Issue encountered when serializing data_augmentation.
+Type is unsupported, or the types of the items don't match field type in CollectionDef. Note this is a warning and probably safe to ignore.
+'NoneType' object has no attribute 'name'
+INFO:root:Model saved in file: ./results/nn_model_layer=1_neuron=8_ep_4.ckpt
+INFO:root:Epoch: 5 TD_loss: -50.40165672665748 Avg_reward: -96.46993776264105 Avg_entropy: 1.8298815285905878
