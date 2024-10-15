@@ -1,0 +1,217 @@
+{
+    "video_name": "diving_1",
+    "key frames": [
+        {
+            "frame_file": "diving_1_frame_78.jpg",
+            "timestamp": "0:01:18"
+        },
+        {
+            "frame_file": "diving_1_frame_99.jpg",
+            "timestamp": "0:01:39"
+        },
+        {
+            "frame_file": "diving_1_frame_110.jpg",
+            "timestamp": "0:01:50"
+        },
+        {
+            "frame_file": "diving_1_frame_134.jpg",
+            "timestamp": "0:02:14"
+        },
+        {
+            "frame_file": "diving_1_frame_151.jpg",
+            "timestamp": "0:02:31"
+        },
+        {
+            "frame_file": "diving_1_frame_161.jpg",
+            "timestamp": "0:02:41"
+        },
+        {
+            "frame_file": "diving_1_frame_171.jpg",
+            "timestamp": "0:02:51"
+        },
+        {
+            "frame_file": "diving_1_frame_184.jpg",
+            "timestamp": "0:03:04"
+        },
+        {
+            "frame_file": "diving_1_frame_191.jpg",
+            "timestamp": "0:03:11"
+        },
+        {
+            "frame_file": "diving_1_frame_211.jpg",
+            "timestamp": "0:03:31"
+        },
+        {
+            "frame_file": "diving_1_frame_227.jpg",
+            "timestamp": "0:03:47"
+        },
+        {
+            "frame_file": "diving_1_frame_246.jpg",
+            "timestamp": "0:04:06"
+        },
+        {
+            "frame_file": "diving_1_frame_252.jpg",
+            "timestamp": "0:04:12"
+        },
+        {
+            "frame_file": "diving_1_frame_262.jpg",
+            "timestamp": "0:04:22"
+        },
+        {
+            "frame_file": "diving_1_frame_308.jpg",
+            "timestamp": "0:05:08"
+        },
+        {
+            "frame_file": "diving_1_frame_319.jpg",
+            "timestamp": "0:05:19"
+        },
+        {
+            "frame_file": "diving_1_frame_352.jpg",
+            "timestamp": "0:05:52"
+        },
+        {
+            "frame_file": "diving_1_frame_393.jpg",
+            "timestamp": "0:06:33"
+        },
+        {
+            "frame_file": "diving_1_frame_456.jpg",
+            "timestamp": "0:07:36"
+        },
+        {
+            "frame_file": "diving_1_frame_465.jpg",
+            "timestamp": "0:07:45"
+        },
+        {
+            "frame_file": "diving_1_frame_488.jpg",
+            "timestamp": "0:08:08"
+        },
+        {
+            "frame_file": "diving_1_frame_497.jpg",
+            "timestamp": "0:08:17"
+        },
+        {
+            "frame_file": "diving_1_frame_509.jpg",
+            "timestamp": "0:08:29"
+        },
+        {
+            "frame_file": "diving_1_frame_521.jpg",
+            "timestamp": "0:08:41"
+        },
+        {
+            "frame_file": "diving_1_frame_534.jpg",
+            "timestamp": "0:08:54"
+        },
+        {
+            "frame_file": "diving_1_frame_548.jpg",
+            "timestamp": "0:09:08"
+        },
+        {
+            "frame_file": "diving_1_frame_561.jpg",
+            "timestamp": "0:09:21"
+        },
+        {
+            "frame_file": "diving_1_frame_608.jpg",
+            "timestamp": "0:10:08"
+        },
+        {
+            "frame_file": "diving_1_frame_622.jpg",
+            "timestamp": "0:10:22"
+        },
+        {
+            "frame_file": "diving_1_frame_633.jpg",
+            "timestamp": "0:10:33"
+        },
+        {
+            "frame_file": "diving_1_frame_651.jpg",
+            "timestamp": "0:10:51"
+        },
+        {
+            "frame_file": "diving_1_frame_673.jpg",
+            "timestamp": "0:11:13"
+        },
+        {
+            "frame_file": "diving_1_frame_708.jpg",
+            "timestamp": "0:11:48"
+        },
+        {
+            "frame_file": "diving_1_frame_747.jpg",
+            "timestamp": "0:12:27"
+        },
+        {
+            "frame_file": "diving_1_frame_760.jpg",
+            "timestamp": "0:12:40"
+        },
+        {
+            "frame_file": "diving_1_frame_775.jpg",
+            "timestamp": "0:12:55"
+        },
+        {
+            "frame_file": "diving_1_frame_787.jpg",
+            "timestamp": "0:13:07"
+        },
+        {
+            "frame_file": "diving_1_frame_821.jpg",
+            "timestamp": "0:13:41"
+        },
+        {
+            "frame_file": "diving_1_frame_844.jpg",
+            "timestamp": "0:14:04"
+        },
+        {
+            "frame_file": "diving_1_frame_876.jpg",
+            "timestamp": "0:14:36"
+        },
+        {
+            "frame_file": "diving_1_frame_895.jpg",
+            "timestamp": "0:14:55"
+        },
+        {
+            "frame_file": "diving_1_frame_904.jpg",
+            "timestamp": "0:15:04"
+        },
+        {
+            "frame_file": "diving_1_frame_913.jpg",
+            "timestamp": "0:15:13"
+        },
+        {
+            "frame_file": "diving_1_frame_917.jpg",
+            "timestamp": "0:15:17"
+        },
+        {
+            "frame_file": "diving_1_frame_925.jpg",
+            "timestamp": "0:15:25"
+        },
+        {
+            "frame_file": "diving_1_frame_947.jpg",
+            "timestamp": "0:15:47"
+        },
+        {
+            "frame_file": "diving_1_frame_971.jpg",
+            "timestamp": "0:16:11"
+        },
+        {
+            "frame_file": "diving_1_frame_995.jpg",
+            "timestamp": "0:16:35"
+        },
+        {
+            "frame_file": "diving_1_frame_1009.jpg",
+            "timestamp": "0:16:49"
+        },
+        {
+            "frame_file": "diving_1_frame_1024.jpg",
+            "timestamp": "0:17:04"
+        },
+        {
+            "frame_file": "diving_1_frame_1033.jpg",
+            "timestamp": "0:17:13"
+        },
+        {
+            "frame_file": "diving_1_frame_1068.jpg",
+            "timestamp": "0:17:48"
+        },
+        {
+            "frame_file": "diving_1_frame_1109.jpg",
+            "timestamp": "0:18:29"
+        }
+    ]
+}
